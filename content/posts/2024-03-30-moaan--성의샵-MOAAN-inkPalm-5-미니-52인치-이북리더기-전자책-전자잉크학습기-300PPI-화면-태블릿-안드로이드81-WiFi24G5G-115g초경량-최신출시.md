@@ -1,11 +1,10 @@
 ---
-title: "moaan  | [성의샵] MOAAN inkPalm 5 미니 5.2인치 이북리더기 전자책 전자잉크학습기 300PPI 화면 태블릿 안드로이드 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'moaan  | [성의샵] MOAAN inkPalm 5 미니 5.2인치 이북리더기 전자책 전자잉크학습기 300PPI 화면 태블릿 안드로이드 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
-slug: "moaan--성의샵-MOAAN-inkPalm-5-미니-52인치-이북리더기-전자책-전자잉크학습기-300PPI-화면-태블릿-안드로이드81-WiFi24G5G-115g초경량-최신출시"
-author: Moon
+slug: 'moaan--성의샵-MOAAN-inkPalm-5-미니-52인치-이북리더기-전자책-전자잉크학습기-300PPI-화면-태블릿-안드로이드81-WiFi24G5G-115g초경량-최신출시'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, moaan]
----
 
 ## 'moaan': 최고의 휴식과 편안함을 위한 궁극의 슬리퍼
 

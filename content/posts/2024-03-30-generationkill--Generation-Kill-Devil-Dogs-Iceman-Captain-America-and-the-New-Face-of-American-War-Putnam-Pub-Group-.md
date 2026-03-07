@@ -1,11 +1,10 @@
 ---
-title: "generationkill  | Generation Kill: Devil Dogs Iceman Captain America and the New Face  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'generationkill  | Generation Kill: Devil Dogs Iceman Captain America and the New Face  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
-slug: "generationkill--Generation-Kill-Devil-Dogs-Iceman-Captain-America-and-the-New-Face-of-American-War-Putnam-Pub-Group-"
-author: Moon
+slug: 'generationkill--Generation-Kill-Devil-Dogs-Iceman-Captain-America-and-the-New-Face-of-American-War-Putnam-Pub-Group-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, generationkill]
----
 
 **Generation Kill: 현대 전쟁 탐구**
 

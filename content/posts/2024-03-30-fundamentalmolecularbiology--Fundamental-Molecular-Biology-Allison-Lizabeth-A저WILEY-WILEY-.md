@@ -1,11 +1,10 @@
 ---
-title: "fundamentalmolecularbiology  | Fundamental Molecular Biology, Allison, Lizabeth A.(저),WILEY, WILEY  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'fundamentalmolecularbiology  | Fundamental Molecular Biology, Allison, Lizabeth A.(저),WILEY, WILEY  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
-slug: "fundamentalmolecularbiology--Fundamental-Molecular-Biology-Allison-Lizabeth-A저WILEY-WILEY-"
-author: Moon
+slug: 'fundamentalmolecularbiology--Fundamental-Molecular-Biology-Allison-Lizabeth-A저WILEY-WILEY-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, fundamentalmolecularbiology]
----
 
 ## **분자생물학의 기초**
 

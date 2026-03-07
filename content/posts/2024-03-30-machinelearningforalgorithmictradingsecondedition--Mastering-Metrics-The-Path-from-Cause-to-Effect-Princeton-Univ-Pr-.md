@@ -1,11 +1,10 @@
 ---
-title: "machinelearningforalgorithmictradingsecondedition  | Mastering 'Metrics: The Path from Cause to Effect, Princeton Univ Pr 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'machinelearningforalgorithmictradingsecondedition  | Mastering ''Metrics: The Path from Cause to Effect, Princeton Univ Pr 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
-slug: "machinelearningforalgorithmictradingsecondedition--Mastering-Metrics-The-Path-from-Cause-to-Effect-Princeton-Univ-Pr-"
-author: Moon
+slug: 'machinelearningforalgorithmictradingsecondedition--Mastering-Metrics-The-Path-from-Cause-to-Effect-Princeton-Univ-Pr-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, machinelearningforalgorithmictradingsecondedition]
----
 
 **알고리즘 트레이딩을 위한 머신러닝 (2판)**
 

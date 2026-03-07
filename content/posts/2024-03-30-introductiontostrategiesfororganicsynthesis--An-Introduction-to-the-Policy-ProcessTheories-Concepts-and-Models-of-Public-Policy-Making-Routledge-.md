@@ -1,11 +1,10 @@
 ---
-title: "introductiontostrategiesfororganicsynthesis  | An Introduction to the Policy Process:Theories Concepts and Models o 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'introductiontostrategiesfororganicsynthesis  | An Introduction to the Policy Process:Theories Concepts and Models o 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
-slug: "introductiontostrategiesfororganicsynthesis--An-Introduction-to-the-Policy-ProcessTheories-Concepts-and-Models-of-Public-Policy-Making-Routledge-"
-author: Moon
+slug: 'introductiontostrategiesfororganicsynthesis--An-Introduction-to-the-Policy-ProcessTheories-Concepts-and-Models-of-Public-Policy-Making-Routledge-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, introductiontostrategiesfororganicsynthesis]
----
 
 ## 유기 합성 전략 입문
 
