@@ -3,8 +3,9 @@ title: 'ultrastudio4kmini  [10~50대 여성추천]  AIYIMA 미니 하이파이 2
 date: 2024-03-30
 slug: 'ultrastudio4kmini--AIYIMA-미니-하이파이-20-디지털-오디오-디코더-USB-DAC-헤드폰-앰프-24비트-96KHz-입력-USB동축광출력-RCA-Amp-DC5V-DACA2-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, ultrastudio4kmini]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'ultrastudio4kmini']
+---
 
 ## Blackmagic Design UltraStudio 4K Mini: 모든 크리에이터를 위한 프로페셔널 비디오 캡처 및 재생 솔루션
 

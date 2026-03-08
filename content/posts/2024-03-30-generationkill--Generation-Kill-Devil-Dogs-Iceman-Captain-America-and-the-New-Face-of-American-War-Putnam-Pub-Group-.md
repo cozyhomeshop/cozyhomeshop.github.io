@@ -3,8 +3,9 @@ title: 'generationkill  | Generation Kill: Devil Dogs Iceman Captain America and
 date: 2024-03-30
 slug: 'generationkill--Generation-Kill-Devil-Dogs-Iceman-Captain-America-and-the-New-Face-of-American-War-Putnam-Pub-Group-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, generationkill]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'generationkill']
+---
 
 **Generation Kill: 현대 전쟁 탐구**
 

@@ -1,10 +1,11 @@
 ---
-title: 'needfulthings  | Factfulness : Ten Reasons We''re Wrong About the World--and Why Thing 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
+title: 'needfulthings  | Factfulness : Ten Reasons We''''re Wrong About the World--and Why Thing 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-30
 slug: 'needfulthings--Factfulness--Ten-Reasons-Were-Wrong-About-the-Worldand-Why-Things-Are-Better-Than-You-Think-Flatiron-Books-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, needfulthings]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'needfulthings']
+---
 
 **Needful Things: 필수품을 위한 최고의 선택**
 

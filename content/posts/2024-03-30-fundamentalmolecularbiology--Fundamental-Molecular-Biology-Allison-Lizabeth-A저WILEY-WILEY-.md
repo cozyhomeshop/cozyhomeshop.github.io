@@ -3,8 +3,9 @@ title: 'fundamentalmolecularbiology  | Fundamental Molecular Biology, Allison, L
 date: 2024-03-30
 slug: 'fundamentalmolecularbiology--Fundamental-Molecular-Biology-Allison-Lizabeth-A저WILEY-WILEY-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, fundamentalmolecularbiology]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'fundamentalmolecularbiology']
+---
 
 ## **분자생물학의 기초**
 

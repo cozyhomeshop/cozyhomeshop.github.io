@@ -3,8 +3,9 @@ title: 'iknowwhatyoudidlastsummer  | [이엔제이] A TO Z Mysteries Random Hous
 date: 2024-03-30
 slug: 'iknowwhatyoudidlastsummer--이엔제이-A-TO-Z-Mysteries-Random-House-미스테리-랜덤하우스-26권세트-영어원서-음원제공-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, iknowwhatyoudidlastsummer]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'iknowwhatyoudidlastsummer']
+---
 
 ## '아이 노 왓 유 디드 라스트 서머'의 필수 소장품
 
